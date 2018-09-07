@@ -6,7 +6,7 @@
 
 -[requireContext() and requireActivity()](https://github.com/wajahatkarim3/Today-I-Learned/blob/master/android/req-act.md)
 
--[run tasks in parallel](https://www.youtube.com/watch?v=v0ZSnISeyKE&list=PL6nth5sRD25jYpAzS1xA9xoHTGY3LBGXQ)
+-[Run tasks in parallel](https://www.youtube.com/watch?v=v0ZSnISeyKE&list=PL6nth5sRD25jYpAzS1xA9xoHTGY3LBGXQ)
 
 
 
