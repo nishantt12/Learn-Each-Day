@@ -8,6 +8,8 @@
 
 -[Run tasks in parallel](https://www.youtube.com/watch?v=v0ZSnISeyKE&list=PL6nth5sRD25jYpAzS1xA9xoHTGY3LBGXQ)
 
+-[Memory leaks in Android](https://blog.aritraroy.in/everything-you-need-to-know-about-memory-leaks-in-android-apps-655f191ca859)
+
 
 
 
