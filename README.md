@@ -12,6 +12,8 @@
 
 -[Google inbox style animation](https://proandroiddev.com/implement-google-inbox-style-animation-on-android-18c261baeda6)
 
+-[Spring animation](https://proandroiddev.com/spring-animation-in-android-de3d4197879b)
+
 
 
 
