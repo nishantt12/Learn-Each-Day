@@ -21,3 +21,5 @@
 
 ### Software Engineering
 -[Writing a killer software engineering resume](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d)
+
+-[Software engineering survival guide](https://medium.freecodecamp.org/a-software-engineering-survival-guide-fe3eafb47166)
