@@ -10,6 +10,8 @@
 
 -[Memory leaks in Android](https://blog.aritraroy.in/everything-you-need-to-know-about-memory-leaks-in-android-apps-655f191ca859)
 
+-[Google inbox style animation](https://proandroiddev.com/implement-google-inbox-style-animation-on-android-18c261baeda6)
+
 
 
 
