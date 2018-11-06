@@ -27,3 +27,5 @@
 -[Writing a killer software engineering resume](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d)
 
 -[Software engineering survival guide](https://medium.freecodecamp.org/a-software-engineering-survival-guide-fe3eafb47166)
+
+-[Big O notation](https://medium.freecodecamp.org/all-you-need-to-know-about-big-o-notation-to-crack-your-next-coding-interview-9d575e7eec4)
