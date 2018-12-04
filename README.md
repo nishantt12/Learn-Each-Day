@@ -24,6 +24,8 @@
 
 -[Software Architectural Patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
+-[Clean Code](https://medium.com/programming-hacks/basics-of-writing-clean-code-c1e79f3315d3)
+
 
 ### Software Engineering
 -[Writing a killer software engineering resume](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d)
