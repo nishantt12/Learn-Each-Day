@@ -14,6 +14,8 @@
 
 -[Spring animation](https://proandroiddev.com/spring-animation-in-android-de3d4197879b)
 
+--[Android App bunlde](https://medium.com/swlh/android-app-bundle-replacement-of-android-apk-ab6d037250c9)
+
 
 
 
